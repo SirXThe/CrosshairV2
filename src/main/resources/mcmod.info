@@ -4,7 +4,7 @@
     "name": "${name}",
     "description": "A fully customizable Crosshair Mod, allowing for a more precise PvP experience.",
     "version": "${version}",
-    "mcversion": "${mcversion}",
+    "mcversion": "1.8.9",
     "url": "",
     "updateUrl": "",
     "authorList": [
